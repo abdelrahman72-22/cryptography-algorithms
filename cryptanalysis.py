@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar  2 14:45:14 2025
-
-@author: Lenovo
-"""
 
 from collections import Counter
 import string
