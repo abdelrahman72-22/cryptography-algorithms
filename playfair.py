@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar  2 14:35:32 2025
-
-@author: Lenovo
-"""
 
 import re
 
