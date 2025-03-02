@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar  2 14:49:39 2025
-
-@author: Lenovo
-"""
 
 from itertools import permutations
 import string
